@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tangqi5
 - 👀 I’m interested in 唱跳rap
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 📧tang12345602@outlook.com
 
 <!---
